@@ -4,5 +4,5 @@ public class Eletrônico {
     private double disponibilidade;
     private String marca;
     private int voltagem;
-    private boolean seguro;
+    private boolean segur
 }
