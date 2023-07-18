@@ -4,6 +4,6 @@ public class Livro {
     private String preco;
     private Enum genero;
     private Enum editora;
-    private boolean disponibilidade;
+    private boolean disponilidade;
 
     }
