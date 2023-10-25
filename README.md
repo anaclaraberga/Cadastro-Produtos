@@ -1,2 +1,2 @@
 # CadastroProdutos
-Sistema de cadastro de produtos.
+Sistema simples de cadastro de produtos utilizando Java.
